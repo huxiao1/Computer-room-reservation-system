@@ -44,4 +44,4 @@
   * 清空预约    ---   清空所有预约记录
   * 注销登录    ---   退出登录
 
-https://github.com/huxiao1/Computer-room-reservation-system/blob/master/a.png
+!https://github.com/huxiao1/Computer-room-reservation-system/blob/master/a.png
